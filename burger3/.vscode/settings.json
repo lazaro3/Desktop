@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 6,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnType": false,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.untitled.labelFormat": "content",
+    "html.format.indentHandlebars": true,
+    "html.format.templating": true,
+    "html.format.preserveNewLines": false,
+    "html.format.wrapAttributes": "auto",
+    "json.format.keepLines": false,
+    "vetur.format.defaultFormatter.css": "none",
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.options.tabSize": 2
+}
